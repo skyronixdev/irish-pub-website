@@ -21,7 +21,7 @@ Premium multi-page Irish pub website built with pure HTML and CSS.
 
 ## 🌍 Live Website
 
-https://redrock-dev.github.io/irish-pub-website/
+https://skyronixdev.github.io.github.io/irish-pub-website/
 
 ## 📱 Responsive
 
